@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "app/assets/fonts/Hurricane-Regular.ttf",
+      "sha1": "e9b3fc21af54c10e5228c43663ee7b2558758fc2"
+    },
+    {
+      "path": "app/assets/fonts/Lobster-Regular.ttf",
+      "sha1": "120c751cd7a77174037c2409ab883ef7efc5edbb"
+    },
+    {
+      "path": "app/assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "app/assets/fonts/PaletteMosaic-Regular.ttf",
+      "sha1": "ad21cf93ab1f6fe2cdfa4f03c671205677a596fc"
+    }
+  ]
+}

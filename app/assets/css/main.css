@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "SEGA LOGO FONT";
+  font-style: normal;
+  font-weight: normal;
+  src: local('SEGA LOGO FONT');
+}
+
+.mainDiv {
+  font-weight: 800;
+  background-color: #7fffd4;
+}
+
+.container {
+  flex-direction: column;
+  background-color: #07ffbb;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  background-color: inherit;
+  font-weight: bold;
+  padding: 1rem;
+  margin-top: 2rem;
+  justify-content: center;
+  font-size: 2rem;
+  font-style: normal;
+  font-family: Pacifico-Regular;
+  color: #2e2e33;
+}
+
+.kanban {
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.welcomeDiv {
+  flex-direction: row;
+  padding: 24px;
+  background-color: #7fffd4;
+  font-family: "Lobster-Regular";
+}
+
+.viewContainer {
+  font-weight: 800;
+  background-color: #7fffd4;
+  font-style: italic;
+}
+
+.header {
+  font-family: "SEGA LOGO FONT";
+  font-size: 72px;
+}
+
+.sectionTitle {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.sectionDescription {
+  margin-top: 8px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.highlight {
+  font-weight: 700;
+}

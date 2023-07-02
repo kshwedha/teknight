@@ -1,0 +1,16 @@
+export const color = {
+  white: '#fff',
+  radiumGreen: '#0f0',
+  black: '#000',
+  darkBlue: '#252250',
+  gold: '#f6de00',
+  coralBlue: '#00f8fb',
+  coralCyan: '#05dccd',
+  coralGreen: '#00fb99',
+  radiumGreen1: "#19fb00",
+  gheeGreen: '#82fb00',
+  gheeYellow: '#ddfb00',
+  coralOrange: '#ff9b00',
+  coralRed: '#f62400',
+  red: '#fb1a00',
+}
